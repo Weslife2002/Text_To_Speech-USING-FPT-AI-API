@@ -1,0 +1,1 @@
+[{"friend" : "Quang Khánh", "name" : "Duy Tân", "hobby" : "gái đẹp"}, {"friend" : "Quang Duy", "name" : "Duy Tân", "hobby" : "gái đẹp"}, {"friend" : "Quang Dũng", "name" : "Duy Tân", "hobby" : "gái đẹp"}]
